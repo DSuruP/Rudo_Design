@@ -1,0 +1,346 @@
+/* Header */
+.headTop{
+  /* background: linear-gradient(90deg, #eb6565 0%, #f3f3f3 100%); */
+  background-color: black;
+  height: 45px;
+  color: white;
+}
+.headTopLeft{
+  float: left;
+}
+.headTopCenter{
+  margin-top: 10px;
+}
+.headTopRight{
+  float: right;
+  margin-top: 10px;
+}
+.fa-hand-stop-o{
+  background-color: rgb(13, 153, 255);
+  padding: 10px;
+}
+.btn{
+  color: white;
+  background: black;
+  border: 1px solid rgb(117, 117, 117);
+  cursor: pointer;
+  font-size: 12px;
+  margin-top: -3px;
+}
+.dropbtn {
+  background-color: #000000;
+  color: white;
+  padding: 9px;
+  font-size: 12px;
+  border: none;
+  cursor: pointer;
+  margin-top: -6px;
+}
+
+/* Middle */
+.main-page{
+  background-color: #d8d5d5;
+  margin-top: -30px;
+}
+.liftSide{
+  margin-top: 42px;
+}
+.rightSide{
+  margin-top: 90px;
+}
+.headStyle{
+  color: #807e7e;
+}
+.box1{
+  border-radius: 9px;
+  background: linear-gradient( #ffe1bc, #ffc4b2  );
+  padding: 24px 2px;
+  margin-top: -15px;
+}
+.box2{
+  border-radius: 9px;
+  background: linear-gradient( #ffe1bc, #ffc4b2  );
+  padding-top: 60px;
+  padding-bottom: 15px;
+  margin-top: -15px;
+}
+.box3{
+  border-radius: 9px;
+  background: linear-gradient( #ffe1bc, #fdeeea  );
+  padding: 24px 2px;
+  margin-top: -15px;
+}
+.box4{
+  background-color: white;
+}
+.checkbox{
+  margin-left: 90px;
+  color: #807e7e;
+}
+.Btn1{
+  background: linear-gradient( 90deg, rgb(241, 41, 41) 0%, rgb(241, 81, 81) 100%); 
+  border: 2px solid #fff;
+  margin-top: 1rem;
+  font-size: 12px;
+  padding: 5px 20px;
+  border-radius: 30px;
+  color: #fff;
+}
+.headTopCenterRight{
+  background: linear-gradient(90deg, #ff6969 0%, #fce6e6 100%);
+  height: 30px;
+}
+.Img2-1{
+  filter: invert(100%);
+  margin-left: 730px;
+  margin-bottom: -14px;
+}
+.Btn2{
+  float: right;
+  margin-top: -30px;
+  background-color: rgb(74, 190, 154);
+  border: 2px solid #fff;
+  font-size: 12px;
+  padding: 5px 20px;
+  border-radius: 30px;
+  color: #fff;
+}
+.bannertext{
+  background-color: black;
+  color: #fff;
+  height: 42px;
+  margin-top: 5px;
+}
+.bannerTextMain{
+  padding-bottom: -400px;
+}
+.fontFun{
+  color: rgb(74, 190, 154);
+}
+.fifty{
+  color: rgb(254, 197, 94);
+}
+.aed{
+  color: rgb(231, 85, 83);
+}
+.Img11{
+  margin-bottom: -15px;
+}
+.innerBox1, .innerBox2, .innerBox3{
+  position:relative;
+}
+.innerBox3{
+  background-color: rgb(248, 127, 127);
+  border-radius: 15px;
+  margin-top: 360px;
+}
+.number3{
+  color: rgb(251, 182, 182);
+  /* margin-left: 42px; */
+}
+.innerBox2{
+  background-color: rgb(74, 190, 155);
+  border-radius: 15px;
+  margin-top: -70px;
+}
+.number2{
+  color: rgb(163, 222, 204);
+  /* margin-left: 42px; */
+}
+.innerBox1{
+  background-color: rgb(23, 53, 136);
+  border-radius: 15px;
+  margin-top: -375px;
+}
+.number1{
+  color: #fff;
+  /* margin-left: 42px; */
+}
+.contentText1{
+  color: #fff;
+  font-size: larger;
+}
+.Btn3{
+  background: linear-gradient( 90deg, rgb(241, 41, 41) 0%, rgb(241, 81, 81) 100%); 
+  border: 2px solid #fff;
+  margin-top: 1rem;
+  font-size: 12px;
+  padding: 5px 40px;
+  border-radius: 30px;
+  color: #fff;
+  margin-top: -30px;
+}
+.Img12{
+  margin-left: 270px;
+  margin-top: -150px;
+}
+.singlePhoto{
+  margin-top: -40px;
+  float: right;
+  margin-right: 60px;
+}
+.rotateText{
+  transform: rotate(270deg);
+  background: rgb(255, 251, 249);
+  width: 180px;
+  text-align: center;
+  border-radius: 30px;
+  padding: 7px 1px;
+  float: right;
+  margin-right: -170px;
+  margin-top: 90px;
+  color:  rgb(248, 127, 127);
+  font-family: Cambria;
+  font-size: 21px;
+}
+.tripleCard1{
+  border: 1px solid black;
+  width: 240px;
+  padding-top: 42px;
+  background: rgb(255, 228, 182);
+  border-radius: 10px;
+}
+.tripleCard2{
+  border: 1px solid black;
+  width: 100px;
+  padding-top: 42px;
+  background: rgb(248, 127, 127);
+  border-radius: 10px;
+  margin-left: 10px;
+}
+.tripleCard2 p{
+  transform: rotate(270deg);
+  margin-top: 210px;
+  margin-left: -65px;
+}
+.tripleCard3{
+  border: 1px solid black;
+  width: 120px;
+  padding-top: 42px;
+  background: rgb(124, 200, 194);
+  border-radius: 10px;
+  margin-left: 10px;
+}
+.tripleCard3 p{
+  transform: rotate(270deg);
+  margin-top: 170px;
+  margin-left: -70px;
+  margin-right: -20px;
+}
+.Img17{
+  margin-left: 170px;
+  transform: rotate(10deg);
+}
+.onlyText p{
+  margin-top: -90px;
+}
+.boxBlue{
+  background: rgb(45, 159, 163);
+  margin: 100px;
+  border-radius: 15px;
+  color: rgb(218, 216, 216);
+  padding-top: 42px;
+  padding-left: 42px;
+  padding-bottom: 250px;
+}
+.Btn4{
+  background: linear-gradient( 90deg, rgb(241, 41, 41) 0%, rgb(241, 81, 81) 100%); 
+  border: 2px solid #fff;
+  margin-top: 1rem;
+  font-size: 12px;
+  padding: 5px 40px;
+  border-radius: 30px;
+  color: #fff;
+  margin-top: -30px;
+}
+.rightImage{
+  float: right;
+  margin-top: -190px;
+  margin-right: -20px;
+}
+.rightImageSmall1{
+  margin-left: 250px;
+  margin-top: -40px;
+}
+.rightImageSmall2{
+  margin-left: 350px;
+  margin-top: -220px;
+}
+.Img18{
+  margin-bottom: -30px;
+  margin-left: -24px;
+}
+.Img19{
+  margin-top: -60px;
+  margin-left: 200px;
+}
+.boxBlue2{
+  background: rgb(23, 53, 136);
+  margin: 100px;
+  border-radius: 15px;
+  color: rgb(218, 216, 216);
+  padding-top: 50px;
+  padding-bottom: 90px;  
+}
+.Img25{
+  margin-left: -200px;
+  margin-top: -30px;
+  filter: invert(100%);
+}
+.Img26{
+  margin-top: -85px;
+  margin-left: 30px;
+  filter: invert(100%);
+}
+.Img27{
+  margin-top: -150px;
+  margin-left: 400px;
+  filter: invert(100%);
+}
+.Btn5{
+  background: linear-gradient( 90deg, rgb(241, 41, 41) 0%, rgb(241, 81, 81) 100%); 
+  border: 2px solid #fff;
+  margin-top: 1rem;
+  font-size: 12px;
+  padding: 5px 40px;
+  border-radius: 30px;
+  color: #fff;
+  margin-top: -30px;
+}
+.Img28{
+  margin-top: -50px;
+}
+.Img29{
+  float: right;
+  margin-top: -50px;
+}
+.Img30{
+  margin-bottom: -100px;
+}
+.Img31{
+  float: right;
+  /* margin-bottom: -200px; */
+  margin-top: 14px;
+}
+.lastPost{
+  background: rgb(237, 134, 99);
+  color: white;
+}
+.Img32{
+  margin-top: -60px;
+  margin-left: 120px;
+}
+.Btn6{
+  background: linear-gradient( 90deg, rgb(241, 41, 41) 0%, rgb(241, 81, 81) 100%); 
+  border: 2px solid #fff;
+  margin-top: 1rem;
+  font-size: 12px;
+  padding: 5px 40px;
+  border-radius: 30px;
+  color: #fff;
+  margin-top: -30px; 
+}
+.Img33{
+  margin-left: 290px;
+  margin-top: -100px;
+}
